@@ -25,7 +25,7 @@ SECRET_KEY = 'wunjq(t8qvky59iw6**=5id)^l#i&ig5m0*l=(=6a=))3i0-t@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['iamamarpal.pythonanywhere.com']
+ALLOWED_HOSTS = ['www.gui-ml.com']
 
 
 # Application definition
